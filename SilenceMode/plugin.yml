@@ -1,0 +1,9 @@
+name: SilenceMode
+version: 1.0
+author: RobertWebb38
+main: com.RobertWebb38.SilenceMode.SilenceMain
+description: Keep your players from talking when they are not supposed to!
+commands:
+ silence:
+  description: Toggle silence mode!
+  

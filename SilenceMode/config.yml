@@ -1,0 +1,5 @@
+#The message shown when a user does not have permission for /silence
+permission-message: '&cYou do not have permission to run this command!'
+
+#The message that the user sees when silence mode is turned on.
+silence-message: '&cChat is currently disabled for all users except administrators.'
