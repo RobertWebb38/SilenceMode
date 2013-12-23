@@ -13,6 +13,7 @@ public class SilenceMain extends JavaPlugin implements Listener {
 	private boolean silencemode;
 	
 	public void onEnable() {
+		getConfig().setDefaults(getConfig());
 		getServer().getPluginManager().registerEvents(this, this);
 	}
 	public boolean onCommand(CommandSender cs, Command cmd, String label, String[] args) {
