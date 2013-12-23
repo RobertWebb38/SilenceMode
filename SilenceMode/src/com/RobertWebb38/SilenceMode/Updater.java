@@ -1,4 +1,4 @@
-package net.gravitydevelopment.updater;
+package com.RobertWebb38.SilenceMode;
 
 import java.io.*;
 import java.net.MalformedURLException;
